@@ -1,0 +1,6 @@
+.gradle/
+build/
+app/bin/
+test_report.html
+pid-list.txt
+natt-logs/*.txt
